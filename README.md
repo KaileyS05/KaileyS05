@@ -5,4 +5,4 @@ CGPA Calulator Project
 - Also shows indvidual exam grades
 - How many credits have been taken
 - Can also determine semester GPA
-- 
+  
